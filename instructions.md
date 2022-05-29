@@ -11,6 +11,11 @@ unzip rpi-boot-eeprom-recovery-*-sd.img.zip
 cp rpi-boot-eeprom-recovery-*-sd.img /dev/mmcblk1
 ```
 
+### Download UEFI Firmware
+#### EDK2 UEFI Releases
+Raspberry Pi 3B+: https://github.com/pftf/RPi3/releases  
+Raspberry Pi 4B: https://github.com/pftf/RPi4/releases
+
 #### Note
 The popularly recommended tool `rpi-eeprom-update` is 
 pitifully useless on any systems other than Raspbian. 
