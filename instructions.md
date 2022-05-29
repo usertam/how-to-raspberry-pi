@@ -7,7 +7,7 @@ EEPROM first. Download the official EEPROM image
 
 To unzip it and flash the image, run:
 ```sh
-unzip rpi-boot-eeprom-recovery-*-sd.img.zip
+7z x rpi-boot-eeprom-recovery-*-sd.img.zip
 cp rpi-boot-eeprom-recovery-*-sd.img /dev/mmcblk1
 ```
 
