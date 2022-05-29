@@ -8,7 +8,7 @@ system environment.
 
 Unfortunately, I was greeted by something resembling this:
 ```
-pi@raspberrypi:~# uname -a
+pi@raspberrypi:~$ uname -a
 Linux raspberrypi 4.1.19-v7+ #858 SMP Tue Mar 15 15:56:00 GMT 2016 armv7l GNU/Linux
 ```
 
