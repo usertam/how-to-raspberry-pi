@@ -28,7 +28,7 @@ called "Raspberry Pi OS 64-bit".
 In my opinion this should not even be acceptable to begin 
 with: it _should_ have been shipped with `aarch64` by 
 default. Rage burnt gold in my veins as I demanded my 
-money's worth of an `arrch64` system back at whatever cost.
+money's worth of an `aarch64` system back at whatever cost.
 
 I continued searching and stumbled upon an article written 
 by a great developer, who also ported the UEFI firmware, 
